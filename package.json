@@ -1,5 +1,5 @@
 {
-  "name": "how-to-enforce-typescript-types-in-the-run-time-environment",
+  "name": "enforce-typescript-types-runtime",
   "version": "1.0.0",
   "description": "Example to enforce TypeScript types in the runtime environment",
   "main": "index.js",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phatnguyenuit/how-to-enforce-typescript-types-in-the-run-time-environment.git"
+    "url": "git+https://github.com/phatnguyenuit/enforce-typescript-types-runtime.git"
   },
   "keywords": [],
   "author": "PhatNguyen <phatnt.uit@gmail.com> (https://phatnguyenuit.github.io)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/phatnguyenuit/how-to-enforce-typescript-types-in-the-run-time-environment/issues"
+    "url": "https://github.com/phatnguyenuit/enforce-typescript-types-runtime/issues"
   },
-  "homepage": "https://github.com/phatnguyenuit/how-to-enforce-typescript-types-in-the-run-time-environment#readme",
+  "homepage": "https://github.com/phatnguyenuit/enforce-typescript-types-runtime#readme",
   "devDependencies": {
     "@types/folder-hash": "^4.0.1",
     "@types/minimatch": "^3.0.5",
