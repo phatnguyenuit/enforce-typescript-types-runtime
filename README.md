@@ -39,7 +39,7 @@ This script helps us to generate multiple validator files, with matched types fi
 
 #### Notes
 
-If you are **Windows** users, you should open **WSL (Windows Subsystem of Linux)** terminal to run the script above. Because this does not work well in Windows platform.
+If you are a **Windows** users, you should open the **WSL (Windows Subsystem of Linux)** terminal to run the script above. Because this does not work well in Windows platform.
 
 Related to this issue, I leave here the issue reference from the `typescript-json-validator` repository [Not working in windows #36](https://github.com/ForbesLindesay/typescript-json-validator/issues/36#issuecomment-977836986)
 
