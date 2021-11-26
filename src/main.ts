@@ -2,18 +2,6 @@ import { validate } from './common.types.validator';
 
 type Validator<TValue> = (value: unknown) => TValue;
 
-// const parseOrThrow = <TValue>(
-//   validator: Validator<TValue>,
-//   value: unknown,
-// ): TValue => {
-//   try {
-//     return validator(value);
-//   } catch (error) {
-//     console.error('❌ Failed to parse');
-//     throw error;
-//   }
-// };
-
 const safetyLog = <TValue>(
   msg: string,
   validator: Validator<TValue>,

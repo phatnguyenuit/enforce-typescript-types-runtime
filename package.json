@@ -2,7 +2,7 @@
   "name": "enforce-typescript-types-runtime",
   "version": "1.0.0",
   "description": "Example to enforce TypeScript types in the runtime environment",
-  "main": "index.js",
+  "main": "dist/main.js",
   "scripts": {
     "generate": "ts-node generateValidators.ts",
     "build": "tsc",
