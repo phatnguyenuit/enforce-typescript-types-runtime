@@ -14,7 +14,7 @@ I also published article on:
   - [Usage](#usage)
   - [Scripts](#scripts)
     - [1. `yarn generate`](#1-yarn-generate)
-    - [Notes](#notes)
+      - [Notes](#notes)
     - [2. `yarn build`](#2-yarn-build)
     - [3. `npx ts-node src/main.ts`](#3-npx-ts-node-srcmaints)
     - [4. `node dist/main.js`](#4-node-distmainjs)
@@ -37,7 +37,7 @@ I also published article on:
 
 This script helps us to generate multiple validator files, with matched types file `**/*.types.ts` under `src` folder.
 
-### Notes
+#### Notes
 
 If you are **Windows** users, you should open **WSL (Windows Subsystem of Linux)** terminal to run the script above. Because this does not work well in Windows platform.
 
