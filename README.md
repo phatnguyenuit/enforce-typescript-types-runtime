@@ -4,7 +4,7 @@ In this example repository, I am going to show you how to enforce TypeScript typ
 
 I also published article on:
 
-- [Medium - How to enforce TypeScript types in the runtime environment](#how-to-enforce-typescript-types-in-the-runtime-environment)
+- [Medium - How to enforce TypeScript types in the runtime environment](https://medium.com/weekly-webtips/how-to-enforce-typescript-types-in-the-runtime-environment-3564ae33a792?source=friends_link&sk=c7d164b79be7829ac6f3a92fcfe7ada9)
 - [My Gists - How to enforce TypeScript types in the runtime environment](https://gist.github.com/phatnguyenuit/8c5d2acb9a458f8f3962a48b5cb79737)
 
 ## Table of contents
