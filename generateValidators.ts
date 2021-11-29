@@ -1,3 +1,13 @@
+/**
+ * IMPORTANT NOTE
+ * typescript-json-validator can not work well on Windows. (use Linux/macOS instead)
+ * Related issue: https://github.com/ForbesLindesay/typescript-json-validator/issues/36
+ *
+ * Workaround:
+ *  - Open WSL (Windows Subsystem for Linux) having nodejs installed
+ *  - Run this file normally
+ */
+
 import fs from 'fs';
 import { exec } from 'child_process';
 import { hashElement, HashElementNode } from 'folder-hash';
